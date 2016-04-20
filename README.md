@@ -2,7 +2,7 @@ Intro
 ---
 **Mega4** is basically the game **Connect Four** in 3D based on [BabylonJS/WebGL](https://github.com/BabylonJS/Babylon.js).
 
-[Demo Version](http://hoschnok.github.io/mega4/)
+[Demo Version](http://hjahns.github.io/mega4/)
 
 License
 ---
